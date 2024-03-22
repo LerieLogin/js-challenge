@@ -4,9 +4,11 @@
 
 ## Usage
 
--teach me the basics of JS
--sort a table of objects
--interact with the objects a little
+    -teach me the basics of JS
+
+    -sort a table of objects
+    
+    -interact with the objects a little
 
 ## Credit
 
@@ -16,3 +18,7 @@ NA
 ## License 
 
 NA
+
+# Pic
+
+![image of website](assets/JS.PNG)
