@@ -21,4 +21,4 @@ NA
 
 # Pic
 
-![image of website](assets/JS.PNG)
+![image of website](Assets/JS.PNG)
